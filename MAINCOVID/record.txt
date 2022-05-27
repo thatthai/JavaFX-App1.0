@@ -1,0 +1,2 @@
+Northy23,56789,1,Nattapol,Nueyen,20,Male,185,70,None,No,Yes,Pfizer,Pfizer,Pfizer,None
+kiki25,1111,3,hihe,haha,21,female,45,170,None,No,Yes,SinoFarm,Other,None,None
